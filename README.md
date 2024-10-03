@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hashus42
-- 👀 I’m interested in Python OpenCV
-- 🌱 I’m currently learning c# Unity, Python TensorFlow
+- 👀 I’m interested in Python \ C++ OpenCV
+- 🌱 I’m currently learning Tensorflow Pytorch
 - 📫 How to reach me: hsnhsyntrkmn@gmail.com
 
 <!---
